@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e42f6fe62ab15e24cb8a696a82578871, type: 3}
   m_Name: VersusTest
   m_EditorClassIdentifier: Assembly-CSharp::Versus
-  weakness: 0
-  strength: 0
-  _null: 0
+  weakness: 11
+  strength: 4
+  _null: 48

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac97cde22c18cbc4cba7468c82966012, type: 3}
   m_Name: StatsTest_1
   m_EditorClassIdentifier: Assembly-CSharp::Stats
-  ATK: 0
-  DEF: 0
-  HP: 0
-  SPD: 0
-  LCK: 0
+  ATK: 5
+  DEF: 10
+  HP: 15
+  SPD: 3
+  LCK: -999
