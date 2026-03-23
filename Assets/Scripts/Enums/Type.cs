@@ -1,5 +1,7 @@
+using System;
 using UnityEngine;
 
+[Serializable]
 [System.Flags]
 public enum Type
 {
