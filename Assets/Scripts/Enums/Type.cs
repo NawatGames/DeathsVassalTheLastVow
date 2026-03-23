@@ -5,7 +5,7 @@ using UnityEngine;
 [System.Flags]
 public enum Type
 {
-    Null = 0,
+    None = 0,
     Draconideo = 1 << 0,
     Humanoide = 1 << 1,
     Fera = 1 << 2,
