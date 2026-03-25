@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cd6d52381da4394eb1b83d182c5e8ab, type: 3}
   m_Name: CreatureTest
   m_EditorClassIdentifier: Assembly-CSharp::Creature
+  Id: 2
   Mythology: 4
   type: 18
   XP: 227
