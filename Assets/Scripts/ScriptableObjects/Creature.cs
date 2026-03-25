@@ -10,6 +10,14 @@ public class Creature : ScriptableObject
     public Stats Stats;
     public Versus Versus;
     public Representation Representation;
+    /*
+    public Skill Skill_1;
+    public Skill Skill_2;
+    public Skill Skill_3;
+    public Skill Skill_4;
+
+    public Hook Hooks;
+    */
 
     public Type Type => type;
     
